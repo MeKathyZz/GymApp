@@ -1,0 +1,15 @@
+### Java e Spring ###
+target/
+*.class
+*.jar
+*.war
+
+### IntelliJ ###
+.idea/
+*.iml
+out/
+
+### Dados e Senhas ###
+data/
+.env
+application-local.properties
